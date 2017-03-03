@@ -1,4 +1,5 @@
-#pragma once
+#ifndef _TEXTQUERY_H_
+#define _TEXTQUERY_H_
 
 #include <fstream>
 #include <map>
@@ -38,3 +39,5 @@ private:
   std::shared_ptr<std::vector<std::string>> file;
 };
 }
+
+#endif
