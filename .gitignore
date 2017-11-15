@@ -1,0 +1,5 @@
+# Build folders
+**/build
+
+# OS hidden files
+**/.DS_STORE
